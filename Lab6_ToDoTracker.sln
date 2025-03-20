@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_ToDoTracker", "Lab6_ToDoTracker\Lab6_ToDoTracker.csproj", "{B85BD535-42A0-47B9-86AD-258F0279452C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85BD535-42A0-47B9-86AD-258F0279452C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85BD535-42A0-47B9-86AD-258F0279452C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85BD535-42A0-47B9-86AD-258F0279452C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85BD535-42A0-47B9-86AD-258F0279452C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {675915F9-4AFF-462C-A94B-ADB7C4196307}
+	EndGlobalSection
+EndGlobal
